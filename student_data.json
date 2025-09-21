@@ -1,0 +1,14 @@
+{
+    "students": [
+        {
+            "ID": 1,
+            "Name": "neelam",
+            "DOB": "22-12-2010",
+            "Phone": "123456789",
+            "City": "delhi",
+            "Class": 12
+        }
+    ],
+    "marks": [],
+    "fees": []
+}
