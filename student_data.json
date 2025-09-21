@@ -7,8 +7,32 @@
             "Phone": "123456789",
             "City": "delhi",
             "Class": 12
+        },
+        {
+            "ID": 2,
+            "Name": "sachin",
+            "DOB": "12-12-2003",
+            "Phone": "9905552877\\",
+            "City": "bihar",
+            "Class": 12
         }
     ],
-    "marks": [],
-    "fees": []
+    "marks": [
+        {
+            "ID": 1,
+            "SID": null,
+            "PassingYear": null,
+            "Roll": null,
+            "TotalMarks": null,
+            "Class": null
+        }
+    ],
+    "fees": [
+        {
+            "ID": 1,
+            "SID": null,
+            "Amount": null,
+            "Mode": null
+        }
+    ]
 }
